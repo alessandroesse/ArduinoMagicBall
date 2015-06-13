@@ -2,6 +2,6 @@
 code for ADO Project: https://arduinodisabilityorchestra.wordpress.com
 
 Magic Snow Ball Team:
-Alessandro,
-Elena,
-Alessio.
+Alessandro Siino,
+Elena Falomo,
+Alessio Sacco.
